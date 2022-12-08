@@ -1,0 +1,61 @@
+
+UPDATE THE CONSTANT WITH A DESCRIPTIVE HEADER OF YOUR LIKING
+
+
+=============  24retail  =============
+
+Current time: 12/08/22 19:17:10
+Unknown software version: 11.8.01300.1
+Base TM1 REST API URL: http://192.168.80.1:52670/api/v1/$metadata
+TM1 data directory: /home/psw/code/hello-tm1py/admin/c:\tm1\tm1_64\bin64\..\samples\tm1\24retail\data
+TM1 logging directory: /home/psw/code/hello-tm1py/admin/c:\tm1\tm1_64\bin64\..\samples\tm1\24retail\logs
+
+
+User audit:
+----------
+
+1 user
+	1 full admin user ('Administrator')
+	0 read/write users ('Authorized User')
+	0 read-only users ('Explorer')
+	0 disabled users
+
+
+User count:
+-----------
+
+1 user
+	1 admin user
+		1 full admin user
+		0 security admin users
+		0 data admin users
+		0 operations admin users
+
+	0 non-admin users
+		0 read/write users
+			0 write users
+			0 read users
+		0 read-only users
+
+	0 disabled users
+
+1 custom TM1 security group
+
+
+User lists:
+-----------
+
+admin user (1):
+	Admin
+
+full admin user (1):
+	Admin
+
+custom TM1 security group (1):
+	CAMID("::Everyone")
+
+all user (1):
+	Admin
+
+all user and their group (1):
+	Admin (1): ADMIN

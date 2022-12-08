@@ -12,12 +12,15 @@ from TM1py.Utils import get_all_servers_from_adminhost
 # =============================================================================================================
 # START of parameters and settings
 # =============================================================================================================
-RESULT_FILE = r'~/code/hello-tm1py/output/user_list.txt'
+RESULT_FILE = r'/home/psw/code/hello-tm1py/output/user_list.txt'
 
 HEADER_OR_CUSTOMER = 'UPDATE THE CONSTANT WITH A DESCRIPTIVE HEADER OF YOUR LIKING'
 
 # TM1 connection settings (IntegratedSecurityMode = 1 for now)
-ADDRESS = 'localhost'
+# Windows Host from Skript running in WSL2
+# https://pscheit.medium.com/get-the-ip-address-of-the-desktop-windows-host-in-wsl2-7dc61653ad51
+# ADDRESS = 'localhost'
+ADDRESS = '192.168.80.1'
 USER = 'admin'
 PWD = 'apple'
 
@@ -38,6 +41,7 @@ PORTS_TO_EXCLUDE = []
 ATTRIBUTE_FOR_CLIENT_NAMES = '}TM1_DefaultDisplayValue'
 
 PA_VERSIONS = {
+    '11.8.0130.1':['11.8.1300.1', '11.8', '2.0.9.14', '27/05/2022'],
     '11.8.00900.3': ['11.8.900.3', '11.8', '2.0.9.10', '14/09/2021'],
     '11.8.00800.5': ['11.8.800.5', '11.8', '2.0.9.9', '14/07/2021'],
     '11.8.00700.?': ['11.8.700.?', '11.8', '2.0.9.8', '26/05/2021'],
