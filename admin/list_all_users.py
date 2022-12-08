@@ -18,7 +18,7 @@ HEADER_OR_CUSTOMER = 'UPDATE THE CONSTANT WITH A DESCRIPTIVE HEADER OF YOUR LIKI
 
 # TM1 connection settings (IntegratedSecurityMode = 1 for now)
 # Windows Host from Skript running in WSL2
-# https://pscheit.medium.com/get-the-ip-address-of-the-desktop-windows-host-in-wsl2-7dc61653ad51
+# > cat /etc/resolv.conf
 # ADDRESS = 'localhost'
 ADDRESS = '192.168.80.1'
 USER = 'admin'
