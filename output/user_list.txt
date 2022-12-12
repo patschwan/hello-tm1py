@@ -4,11 +4,11 @@ UPDATE THE CONSTANT WITH A DESCRIPTIVE HEADER OF YOUR LIKING
 
 =============  24retail  =============
 
-Current time: 12/08/22 19:17:10
+Current time: 12/08/22 20:12:39
 Unknown software version: 11.8.01300.1
 Base TM1 REST API URL: http://192.168.80.1:52670/api/v1/$metadata
-TM1 data directory: /home/psw/code/hello-tm1py/admin/c:\tm1\tm1_64\bin64\..\samples\tm1\24retail\data
-TM1 logging directory: /home/psw/code/hello-tm1py/admin/c:\tm1\tm1_64\bin64\..\samples\tm1\24retail\logs
+TM1 data directory: /home/psw/code/hello-tm1py/c:\tm1\tm1_64\bin64\..\samples\tm1\24retail\data
+TM1 logging directory: /home/psw/code/hello-tm1py/c:\tm1\tm1_64\bin64\..\samples\tm1\24retail\logs
 
 
 User audit:
