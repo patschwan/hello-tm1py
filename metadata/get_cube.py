@@ -14,4 +14,4 @@ with TM1Service(address='192.168.80.1', port=52670, user='admin', password='appl
         # Cube: Revenue Assumptions hat die Dimensionen: ['product', 'Channel', 'Month', 'Year', 'Version', 'RevenueAsmpt']
         # Cube: Revenue Reporting hat die Dimensionen: ['organization', 'Channel', 'product', 'Month', 'Year', 'Revenue', 'Version']
         # Cube: Social Media hat die Dimensionen: ['product', 'SM Entries', 'SM Reviews']
-
+        
