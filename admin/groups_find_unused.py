@@ -1,21 +1,16 @@
 """
 Find all security groups, that are not used
 """
-# import configparser
-
+import configparser
 from TM1py.Services import TM1Service
 
-## siehe tm1py samples Original - wegen configparser
-# config = configparser.ConfigParser()
 # storing the credentials in a file is not recommended for purposes other than testing.
 # it's better to setup CAM with SSO or use keyring to store credentials in the windows credential manager. Sample:
 # Samples/credentials_best_practice.py
-# config.read(r'..\config.ini')
+config = configparser.ConfigParser()
+config.read(r'../.config/config.ini')
 
-# with TM1Service(**config['tm1srv01']) as tm1:
-    # Get all groups
-
-with TM1Service(address='192.168.80.1', port=52670, user='admin', password='apple', ssl=False) as tm1:
+with TM1Service(**config['24retail']) as tm1:
     all_groups = tm1.security.get_all_groups()
 
     # Determine the used groups from }ClientGroups Cube

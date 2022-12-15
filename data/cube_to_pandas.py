@@ -9,16 +9,13 @@ import configparser
 from TM1py.Services import TM1Service
 from TM1py.Utils import Utils
 
-## siehe tm1py samples Original - wegen configparser
-# config = configparser.ConfigParser()
 # storing the credentials in a file is not recommended for purposes other than testing.
 # it's better to setup CAM with SSO or use keyring to store credentials in the windows credential manager. Sample:
 # Samples/credentials_best_practice.py
-# config.read(r'..\config.ini')
+config = configparser.ConfigParser()
+config.read(r'../.config/config.ini')
 
-# with TM1Service(**config['tm1srv01']) as tm1:
-
-with TM1Service(address='192.168.80.1', port=52670, user='admin', password='apple', ssl=False) as tm1:
+with TM1Service(**config['24retail']) as tm1:
     # define MDX Query
     # basiert auf 24retail SAMPLE TM1 Modell und Cube: Revenue Reporting View: Variance Analysis
     mdx = "SELECT {[product].[Product Total],[product].[Phones],[product].[PCs],[product].[Tablets]} on ROWS, " \
