@@ -1,0 +1,209 @@
+Cubes sorted by number of Rule Statements:
+['Income Statement', 'Metrics', 'Allocation Calculation', 'Rate BOM', '}CubeDrill_Income Statement', '}CubeDrill_Income Statement Reporting', 'Depreciation', 'Revenue', 'Employee', 'GLTransactions', 'Compensation', 'Income Statement Reporting', 'Line Item Detail', 'ExternalFactors', 'Revenue Assumptions', 'Revenue Reporting', 'FcstMethod', 'Allocation Source Definition', 'Capital', 'Exchange Rates', 'Phased Costs', '}MS_Metrics}_Smartco 2015 Plan', '}tp_intermediate_ElementSecurity}organization', 'Supply Chain', 'Task Workflow', 'Relative Time', '}ElementAttributes_Version', 'Asset Life', 'Calendar', 'Job Code Assumptions', 'Job Type Assumption', 'Spread Methods', '}CellSecurity_Income Statement', '}CellSecurity_Metrics', '}CellSecurity_Revenue', '}CellSecurity_Revenue Reporting', '}CubeDrill_Capital', '}CubeDrill_Employee', '}ICube_}Link_Dep_3ACap_Additions', '}ICube_}Link_Dep_3ACap_InService', 'Benefit Assumptions', 'Compensation Reporting', 'Version Subset Control', '}CellSecurity_Supply Chain', '}CubeCaptions', '}CubeDrill_Revenue', '}DimensionCaptions', '}ElementAttributes_EmployeeList', '}ElementAttributes_jobcode', '}ElementCaptions', '}ElementCaptionsByDimension', '}MI_Metrics', '}PickList_Employee', '}PickList_}ElementAttributes_Account', 'Social Media', 'Version Copy Control', 'Workflow Reporting', '}ApplicationSecurity', '}Capabilities', '}CellAnnotations_Capital', '}CellAnnotations_Employee', '}CellAnnotations_Income Statement', '}CellAnnotations_Line Item Detail', '}CellAnnotations_Metrics', '}CellAnnotations_Phased Costs', '}CellAnnotations_Revenue', '}ChoreSecurity', '}ClientCAMAssociatedGroups', '}ClientProperties', '}ClientSettings', '}CubeAttributes', '}CubeProperties', '}CubeSecurity', '}CubeSecurityProperties', '}DimensionAttributes', '}DimensionProperties', '}DimensionSecurity', '}ElementAnnotations_organization', '}ElementAttributes_Account', '}ElementAttributes_Account Reporting', '}ElementAttributes_Allocation Calculation', '}ElementAttributes_Allocation List', '}ElementAttributes_Allocation Source Definition', '}ElementAttributes_Asset Life', '}ElementAttributes_Asset Types', '}ElementAttributes_Benefit', '}ElementAttributes_BI Measure', '}ElementAttributes_Calendar', '}ElementAttributes_Capital', '}ElementAttributes_CapitalList', '}ElementAttributes_Channel', '}ElementAttributes_Compensation', '}ElementAttributes_Currency', '}ElementAttributes_Currency Calc', '}ElementAttributes_Depreciation', '}ElementAttributes_Employee', '}ElementAttributes_Exchange Rate', '}ElementAttributes_Exchange Rate Type', '}ElementAttributes_ExternalFactors', '}ElementAttributes_FcstMethod', '}ElementAttributes_JobCodeAsmpt', '}ElementAttributes_JobType', '}ElementAttributes_JobTypeAssumption', '}ElementAttributes_LineItemDetail', '}ElementAttributes_LineItemList', '}ElementAttributes_Metrics', '}ElementAttributes_Metrics Indicators', '}ElementAttributes_Month', '}ElementAttributes_MonthMap', '}ElementAttributes_Month Reporting', '}ElementAttributes_Numbered List', '}ElementAttributes_organization', '}ElementAttributes_Organization Reporting', '}ElementAttributes_PhasedCosts', '}ElementAttributes_Plant', '}ElementAttributes_product', '}ElementAttributes_Rate Measure', '}ElementAttributes_Relative Time', '}ElementAttributes_Revenue', '}ElementAttributes_RevenueAsmpt', '}ElementAttributes_SM Entries', '}ElementAttributes_SM Reviews', '}ElementAttributes_Spread Methods', '}ElementAttributes_String', '}ElementAttributes_Task', '}ElementAttributes_Task Workflow Measure', '}ElementAttributes_TrxID', '}ElementAttributes_TrxMeasures', '}ElementAttributes_Version Subset Measures', '}ElementAttributes_Version Subsets', '}ElementAttributes_Year', '}ElementAttributes_}Backup_Metrics Indicators', '}ElementAttributes_}Backup_Organization Reporting', '}ElementAttributes_}Clients', '}ElementAttributes_}Cultures', '}ElementAttributes_}DeployedLinkRecord', '}ElementAttributes_}ElementAttributes_organization', '}ElementAttributes_}formatTesterDimensionA', '}ElementAttributes_}formatTesterDimensionB', '}ElementAttributes_}Groups', '}ElementAttributes_}Link_Allocation Calculation_3AAllocation Source Definition', '}ElementAttributes_}Link_Capital_3AAssetLife', '}ElementAttributes_}Link_Dep_3ACap_Additions', '}ElementAttributes_}Link_Dep_3ACap_InService', '}ElementAttributes_}Link_Emp_3AComp', '}ElementAttributes_}Link_Emp_3AJCAsmpt', '}ElementAttributes_}Link_Emp_3AJTAsmpt', '}ElementAttributes_}Link_Metrics _3C Income Statement', '}ElementAttributes_}Links', '}ElementAttributes_}MI_Metrics_D', '}ElementAttributes_}MI_Metrics_I', '}ElementAttributes_}Modeling', '}ElementAttributes_}ModelProperties', '}ElementAttributes_}MS_Metrics}_Smartco 2015 Plan', '}ElementAttributes_}Processes', '}ElementAttributes_}ProgressTimings', '}ElementAttributes_}tp_applications', '}ElementAttributes_}tp_config', '}ElementAttributes_}tp_process_errors_localization', '}ElementAttributes_}tp_system_config', '}ElementAttributes_}tp_tasks}0f309cd0-4215-4482-8471-80ef000fcbb3', '}ElementProperties_organization', '}formatTesterCube', '}HierarchyProperties', '}PlanningControl', '}ProcessSecurity', '}SecurityOverlayGlobal_Income Statement', '}SecurityOverlayGlobal_Metrics', '}SecurityOverlayGlobal_Revenue', '}SecurityOverlayGlobal_Supply Chain', '}StatsByChore', '}StatsByClient', '}StatsByCube', '}StatsByCubeByClient', '}StatsByProcess', '}StatsForServer', '}ElementSecurity_organization', '}ElementSecurity_}tp_applications', '}tp_application_permission}0f309cd0-4215-4482-8471-80ef000fcbb3', '}tp_application_root_permissions', '}CellSecurity_Income Statement Reporting', '}CellSecurity_}tp_application_permission}0f309cd0-4215-4482-8471-80ef000fcbb3', '}CellSecurity_}tp_application_root_permissions', '}ClientGroups', '}ElementAttributes_Employee Name', '}ElementAttributes_LineItem_PickList', '}ElementAttributes_OpExSubset_Picklist', '}ElementAttributes_ProductSubset_PickList', '}ElementAttributes_Supply Chain Measures', '}ElementAttributes_Version Copy Measures', '}ElementAttributes_Version Reporting', '}ElementAttributes_Workflow Info', '}ElementAttributes_}MH_Metrics', '}ElementSecurity_Metrics Indicators', '}ElementSecurity_Organization Reporting', '}ElementSecurity_Version', '}ElementSecurity_}tp_tasks}0f309cd0-4215-4482-8471-80ef000fcbb3', '}LocalizedCubeAttributes', '}LocalizedDimensionAttributes', '}LocalizedElementAttributes_Account', '}LocalizedElementAttributes_Account Reporting', '}LocalizedElementAttributes_Allocation Calculation', '}LocalizedElementAttributes_Allocation List', '}LocalizedElementAttributes_Allocation Source Definition', '}LocalizedElementAttributes_Asset Life', '}LocalizedElementAttributes_Asset Types', '}LocalizedElementAttributes_Benefit', '}LocalizedElementAttributes_Calendar', '}LocalizedElementAttributes_Capital', '}LocalizedElementAttributes_CapitalList', '}LocalizedElementAttributes_Channel', '}LocalizedElementAttributes_Compensation', '}LocalizedElementAttributes_Currency Calc', '}LocalizedElementAttributes_Depreciation', '}LocalizedElementAttributes_Employee', '}LocalizedElementAttributes_EmployeeList', '}LocalizedElementAttributes_Employee Name', '}LocalizedElementAttributes_Exchange Rate', '}LocalizedElementAttributes_Exchange Rate Type', '}LocalizedElementAttributes_ExternalFactors', '}LocalizedElementAttributes_FcstMethod', '}LocalizedElementAttributes_jobcode', '}LocalizedElementAttributes_JobCodeAsmpt', '}LocalizedElementAttributes_JobType', '}LocalizedElementAttributes_JobTypeAssumption', '}LocalizedElementAttributes_LineItem_PickList', '}LocalizedElementAttributes_LineItemDetail', '}LocalizedElementAttributes_LineItemList', '}LocalizedElementAttributes_Metrics', '}LocalizedElementAttributes_Metrics Indicators', '}LocalizedElementAttributes_Month', '}LocalizedElementAttributes_MonthMap', '}LocalizedElementAttributes_Month Reporting', '}LocalizedElementAttributes_Numbered List', '}LocalizedElementAttributes_OpExSubset_Picklist', '}LocalizedElementAttributes_organization', '}LocalizedElementAttributes_Organization Reporting', '}LocalizedElementAttributes_PhasedCosts', '}LocalizedElementAttributes_Plant', '}LocalizedElementAttributes_product', '}LocalizedElementAttributes_ProductSubset_PickList', '}LocalizedElementAttributes_Rate Measure', '}LocalizedElementAttributes_Relative Time', '}LocalizedElementAttributes_Revenue', '}LocalizedElementAttributes_RevenueAsmpt', '}LocalizedElementAttributes_SM Reviews', '}LocalizedElementAttributes_Spread Methods', '}LocalizedElementAttributes_String', '}LocalizedElementAttributes_Supply Chain Measures', '}LocalizedElementAttributes_Task', '}LocalizedElementAttributes_Task Workflow Measure', '}LocalizedElementAttributes_TrxID', '}LocalizedElementAttributes_TrxMeasures', '}LocalizedElementAttributes_Version', '}LocalizedElementAttributes_Version Copy Measures', '}LocalizedElementAttributes_Version Reporting', '}LocalizedElementAttributes_Version Subset Measures', '}LocalizedElementAttributes_Version Subsets', '}LocalizedElementAttributes_Workflow Info', '}LocalizedElementAttributes_Year', '}LocalizedProcessAttributes', '}LocalizedSubsetAttributes_Account', '}LocalizedSubsetAttributes_Account Reporting', '}LocalizedSubsetAttributes_Allocation Calculation', '}LocalizedSubsetAttributes_Allocation List', '}LocalizedSubsetAttributes_Allocation Source Definition', '}LocalizedSubsetAttributes_Asset Life', '}LocalizedSubsetAttributes_Asset Types', '}LocalizedSubsetAttributes_Benefit', '}LocalizedSubsetAttributes_Calendar', '}LocalizedSubsetAttributes_Capital', '}LocalizedSubsetAttributes_CapitalList', '}LocalizedSubsetAttributes_Channel', '}LocalizedSubsetAttributes_Compensation', '}LocalizedSubsetAttributes_Currency', '}LocalizedSubsetAttributes_Currency Calc', '}LocalizedSubsetAttributes_Depreciation', '}LocalizedSubsetAttributes_Employee', '}LocalizedSubsetAttributes_EmployeeList', '}LocalizedSubsetAttributes_Employee Name', '}LocalizedSubsetAttributes_Exchange Rate', '}LocalizedSubsetAttributes_Exchange Rate Type', '}LocalizedSubsetAttributes_ExternalFactors', '}LocalizedSubsetAttributes_jobcode', '}LocalizedSubsetAttributes_JobCodeAsmpt', '}LocalizedSubsetAttributes_JobType', '}LocalizedSubsetAttributes_JobTypeAssumption', '}LocalizedSubsetAttributes_LineItem_PickList', '}LocalizedSubsetAttributes_LineItemDetail', '}LocalizedSubsetAttributes_LineItemList', '}LocalizedSubsetAttributes_Metrics', '}LocalizedSubsetAttributes_Metrics Indicators', '}LocalizedSubsetAttributes_Month', '}LocalizedSubsetAttributes_MonthMap', '}LocalizedSubsetAttributes_Month Reporting', '}LocalizedSubsetAttributes_Numbered List', '}LocalizedSubsetAttributes_OpExSubset_Picklist', '}LocalizedSubsetAttributes_organization', '}LocalizedSubsetAttributes_Organization Reporting', '}LocalizedSubsetAttributes_PhasedCosts', '}LocalizedSubsetAttributes_Plant', '}LocalizedSubsetAttributes_product', '}LocalizedSubsetAttributes_ProductSubset_PickList', '}LocalizedSubsetAttributes_Rate Measure', '}LocalizedSubsetAttributes_Relative Time', '}LocalizedSubsetAttributes_Revenue', '}LocalizedSubsetAttributes_RevenueAsmpt', '}LocalizedSubsetAttributes_Spread Methods', '}LocalizedSubsetAttributes_String', '}LocalizedSubsetAttributes_Supply Chain Measures', '}LocalizedSubsetAttributes_Task', '}LocalizedSubsetAttributes_Task Workflow Measure', '}LocalizedSubsetAttributes_TrxMeasures', '}LocalizedSubsetAttributes_Version', '}LocalizedSubsetAttributes_Version Subset Measures', '}LocalizedSubsetAttributes_Version Subsets', '}LocalizedSubsetAttributes_Year', '}LocalizedViewAttributes_Allocation Calculation', '}LocalizedViewAttributes_Allocation Source Definition', '}LocalizedViewAttributes_Asset Life', '}LocalizedViewAttributes_Benefit Assumptions', '}LocalizedViewAttributes_Calendar', '}LocalizedViewAttributes_Capital', '}LocalizedViewAttributes_Compensation', '}LocalizedViewAttributes_Compensation Reporting', '}LocalizedViewAttributes_Depreciation', '}LocalizedViewAttributes_Employee', '}LocalizedViewAttributes_Exchange Rates', '}LocalizedViewAttributes_ExternalFactors', '}LocalizedViewAttributes_FcstMethod', '}LocalizedViewAttributes_GLTransactions', '}LocalizedViewAttributes_Income Statement', '}LocalizedViewAttributes_Income Statement Reporting', '}LocalizedViewAttributes_Job Code Assumptions', '}LocalizedViewAttributes_Job Type Assumption', '}LocalizedViewAttributes_Line Item Detail', '}LocalizedViewAttributes_Metrics', '}LocalizedViewAttributes_Phased Costs', '}LocalizedViewAttributes_Rate BOM', '}LocalizedViewAttributes_Relative Time', '}LocalizedViewAttributes_Revenue', '}LocalizedViewAttributes_Revenue Assumptions', '}LocalizedViewAttributes_Revenue Reporting', '}LocalizedViewAttributes_Social Media', '}LocalizedViewAttributes_Spread Methods', '}LocalizedViewAttributes_Supply Chain', '}LocalizedViewAttributes_Task Workflow', '}LocalizedViewAttributes_Version Copy Control', '}LocalizedViewAttributes_Version Subset Control', '}LocalizedViewAttributes_Workflow Reporting', '}ProcessAttributes', '}StatsByRule', '}SubsetAttributes_Account', '}SubsetAttributes_Account Reporting', '}SubsetAttributes_Allocation Calculation', '}SubsetAttributes_Allocation List', '}SubsetAttributes_Allocation Source Definition', '}SubsetAttributes_Asset Life', '}SubsetAttributes_Asset Types', '}SubsetAttributes_Benefit', '}SubsetAttributes_Calendar', '}SubsetAttributes_Capital', '}SubsetAttributes_CapitalList', '}SubsetAttributes_Channel', '}SubsetAttributes_Compensation', '}SubsetAttributes_Currency', '}SubsetAttributes_Currency Calc', '}SubsetAttributes_Depreciation', '}SubsetAttributes_Employee', '}SubsetAttributes_EmployeeList', '}SubsetAttributes_Employee Name', '}SubsetAttributes_Exchange Rate', '}SubsetAttributes_Exchange Rate Type', '}SubsetAttributes_ExternalFactors', '}SubsetAttributes_jobcode', '}SubsetAttributes_JobCodeAsmpt', '}SubsetAttributes_JobType', '}SubsetAttributes_JobTypeAssumption', '}SubsetAttributes_LineItem_PickList', '}SubsetAttributes_LineItemDetail', '}SubsetAttributes_LineItemList', '}SubsetAttributes_Metrics', '}SubsetAttributes_Metrics Indicators', '}SubsetAttributes_Month', '}SubsetAttributes_MonthMap', '}SubsetAttributes_Month Reporting', '}SubsetAttributes_Numbered List', '}SubsetAttributes_OpExSubset_Picklist', '}SubsetAttributes_organization', '}SubsetAttributes_Organization Reporting', '}SubsetAttributes_PhasedCosts', '}SubsetAttributes_Plant', '}SubsetAttributes_product', '}SubsetAttributes_ProductSubset_PickList', '}SubsetAttributes_Rate Measure', '}SubsetAttributes_Relative Time', '}SubsetAttributes_Revenue', '}SubsetAttributes_RevenueAsmpt', '}SubsetAttributes_Spread Methods', '}SubsetAttributes_String', '}SubsetAttributes_Supply Chain Measures', '}SubsetAttributes_Task', '}SubsetAttributes_Task Workflow Measure', '}SubsetAttributes_TrxID', '}SubsetAttributes_TrxMeasures', '}SubsetAttributes_Version', '}SubsetAttributes_Version Subset Measures', '}SubsetAttributes_Version Subsets', '}SubsetAttributes_Year', '}tp_app_user_preferences', '}tp_application_cubes', '}tp_application_jobs', '}tp_application_state}0f309cd0-4215-4482-8471-80ef000fcbb3', '}tp_central_application_state', '}tp_process_errors', '}tp_task_navigations}0f309cd0-4215-4482-8471-80ef000fcbb3', '}tp_workflow_action_TI', '}ViewAttributes_Allocation Calculation', '}ViewAttributes_Allocation Source Definition', '}ViewAttributes_Asset Life', '}ViewAttributes_Benefit Assumptions', '}ViewAttributes_Calendar', '}ViewAttributes_Capital', '}ViewAttributes_Compensation', '}ViewAttributes_Compensation Reporting', '}ViewAttributes_Depreciation', '}ViewAttributes_Employee', '}ViewAttributes_Exchange Rates', '}ViewAttributes_ExternalFactors', '}ViewAttributes_FcstMethod', '}ViewAttributes_GLTransactions', '}ViewAttributes_Income Statement', '}ViewAttributes_Income Statement Reporting', '}ViewAttributes_Job Code Assumptions', '}ViewAttributes_Job Type Assumption', '}ViewAttributes_Line Item Detail', '}ViewAttributes_Metrics', '}ViewAttributes_Phased Costs', '}ViewAttributes_Rate BOM', '}ViewAttributes_Relative Time', '}ViewAttributes_Revenue', '}ViewAttributes_Revenue Assumptions', '}ViewAttributes_Revenue Reporting', '}ViewAttributes_Social Media', '}ViewAttributes_Spread Methods', '}ViewAttributes_Supply Chain', '}ViewAttributes_Task Workflow', '}ViewAttributes_Version Copy Control', '}ViewAttributes_Version Subset Control', '}ViewAttributes_Workflow Reporting']
+Cubes sorted by number of Feeder Statements:
+['Income Statement', 'Metrics', 'Revenue', 'Capital', 'Benefit Assumptions', 'Employee', 'Allocation Calculation', 'Allocation Source Definition', 'Revenue Assumptions', 'Phased Costs', 'Relative Time', 'Rate BOM', 'Compensation', 'Line Item Detail', 'Supply Chain', 'Task Workflow', '}ICube_}Link_Dep_3ACap_Additions', '}ICube_}Link_Dep_3ACap_InService', '}StatsByClient', '}CubeDrill_Income Statement', '}CubeDrill_Income Statement Reporting', 'Depreciation', 'GLTransactions', 'Income Statement Reporting', 'ExternalFactors', 'Revenue Reporting', 'FcstMethod', 'Exchange Rates', '}MS_Metrics}_Smartco 2015 Plan', '}tp_intermediate_ElementSecurity}organization', '}ElementAttributes_Version', 'Asset Life', 'Calendar', 'Job Code Assumptions', 'Job Type Assumption', 'Spread Methods', '}CellSecurity_Income Statement', '}CellSecurity_Metrics', '}CellSecurity_Revenue', '}CellSecurity_Revenue Reporting', '}CubeDrill_Capital', '}CubeDrill_Employee', 'Compensation Reporting', 'Version Subset Control', '}CellSecurity_Supply Chain', '}CubeCaptions', '}CubeDrill_Revenue', '}DimensionCaptions', '}ElementAttributes_EmployeeList', '}ElementAttributes_jobcode', '}ElementCaptions', '}ElementCaptionsByDimension', '}MI_Metrics', '}PickList_Employee', '}PickList_}ElementAttributes_Account', 'Social Media', 'Version Copy Control', 'Workflow Reporting', '}ApplicationSecurity', '}Capabilities', '}CellAnnotations_Capital', '}CellAnnotations_Employee', '}CellAnnotations_Income Statement', '}CellAnnotations_Line Item Detail', '}CellAnnotations_Metrics', '}CellAnnotations_Phased Costs', '}CellAnnotations_Revenue', '}ChoreSecurity', '}ClientCAMAssociatedGroups', '}ClientProperties', '}ClientSettings', '}CubeAttributes', '}CubeProperties', '}CubeSecurity', '}CubeSecurityProperties', '}DimensionAttributes', '}DimensionProperties', '}DimensionSecurity', '}ElementAnnotations_organization', '}ElementAttributes_Account', '}ElementAttributes_Account Reporting', '}ElementAttributes_Allocation Calculation', '}ElementAttributes_Allocation List', '}ElementAttributes_Allocation Source Definition', '}ElementAttributes_Asset Life', '}ElementAttributes_Asset Types', '}ElementAttributes_Benefit', '}ElementAttributes_BI Measure', '}ElementAttributes_Calendar', '}ElementAttributes_Capital', '}ElementAttributes_CapitalList', '}ElementAttributes_Channel', '}ElementAttributes_Compensation', '}ElementAttributes_Currency', '}ElementAttributes_Currency Calc', '}ElementAttributes_Depreciation', '}ElementAttributes_Employee', '}ElementAttributes_Exchange Rate', '}ElementAttributes_Exchange Rate Type', '}ElementAttributes_ExternalFactors', '}ElementAttributes_FcstMethod', '}ElementAttributes_JobCodeAsmpt', '}ElementAttributes_JobType', '}ElementAttributes_JobTypeAssumption', '}ElementAttributes_LineItemDetail', '}ElementAttributes_LineItemList', '}ElementAttributes_Metrics', '}ElementAttributes_Metrics Indicators', '}ElementAttributes_Month', '}ElementAttributes_MonthMap', '}ElementAttributes_Month Reporting', '}ElementAttributes_Numbered List', '}ElementAttributes_organization', '}ElementAttributes_Organization Reporting', '}ElementAttributes_PhasedCosts', '}ElementAttributes_Plant', '}ElementAttributes_product', '}ElementAttributes_Rate Measure', '}ElementAttributes_Relative Time', '}ElementAttributes_Revenue', '}ElementAttributes_RevenueAsmpt', '}ElementAttributes_SM Entries', '}ElementAttributes_SM Reviews', '}ElementAttributes_Spread Methods', '}ElementAttributes_String', '}ElementAttributes_Task', '}ElementAttributes_Task Workflow Measure', '}ElementAttributes_TrxID', '}ElementAttributes_TrxMeasures', '}ElementAttributes_Version Subset Measures', '}ElementAttributes_Version Subsets', '}ElementAttributes_Year', '}ElementAttributes_}Backup_Metrics Indicators', '}ElementAttributes_}Backup_Organization Reporting', '}ElementAttributes_}Clients', '}ElementAttributes_}Cultures', '}ElementAttributes_}DeployedLinkRecord', '}ElementAttributes_}ElementAttributes_organization', '}ElementAttributes_}formatTesterDimensionA', '}ElementAttributes_}formatTesterDimensionB', '}ElementAttributes_}Groups', '}ElementAttributes_}Link_Allocation Calculation_3AAllocation Source Definition', '}ElementAttributes_}Link_Capital_3AAssetLife', '}ElementAttributes_}Link_Dep_3ACap_Additions', '}ElementAttributes_}Link_Dep_3ACap_InService', '}ElementAttributes_}Link_Emp_3AComp', '}ElementAttributes_}Link_Emp_3AJCAsmpt', '}ElementAttributes_}Link_Emp_3AJTAsmpt', '}ElementAttributes_}Link_Metrics _3C Income Statement', '}ElementAttributes_}Links', '}ElementAttributes_}MI_Metrics_D', '}ElementAttributes_}MI_Metrics_I', '}ElementAttributes_}Modeling', '}ElementAttributes_}ModelProperties', '}ElementAttributes_}MS_Metrics}_Smartco 2015 Plan', '}ElementAttributes_}Processes', '}ElementAttributes_}ProgressTimings', '}ElementAttributes_}tp_applications', '}ElementAttributes_}tp_config', '}ElementAttributes_}tp_process_errors_localization', '}ElementAttributes_}tp_system_config', '}ElementAttributes_}tp_tasks}0f309cd0-4215-4482-8471-80ef000fcbb3', '}ElementProperties_organization', '}formatTesterCube', '}HierarchyProperties', '}PlanningControl', '}ProcessSecurity', '}SecurityOverlayGlobal_Income Statement', '}SecurityOverlayGlobal_Metrics', '}SecurityOverlayGlobal_Revenue', '}SecurityOverlayGlobal_Supply Chain', '}StatsByChore', '}StatsByCube', '}StatsByCubeByClient', '}StatsByProcess', '}StatsForServer', '}ElementSecurity_organization', '}ElementSecurity_}tp_applications', '}tp_application_permission}0f309cd0-4215-4482-8471-80ef000fcbb3', '}tp_application_root_permissions', '}CellSecurity_Income Statement Reporting', '}CellSecurity_}tp_application_permission}0f309cd0-4215-4482-8471-80ef000fcbb3', '}CellSecurity_}tp_application_root_permissions', '}ClientGroups', '}ElementAttributes_Employee Name', '}ElementAttributes_LineItem_PickList', '}ElementAttributes_OpExSubset_Picklist', '}ElementAttributes_ProductSubset_PickList', '}ElementAttributes_Supply Chain Measures', '}ElementAttributes_Version Copy Measures', '}ElementAttributes_Version Reporting', '}ElementAttributes_Workflow Info', '}ElementAttributes_}MH_Metrics', '}ElementSecurity_Metrics Indicators', '}ElementSecurity_Organization Reporting', '}ElementSecurity_Version', '}ElementSecurity_}tp_tasks}0f309cd0-4215-4482-8471-80ef000fcbb3', '}LocalizedCubeAttributes', '}LocalizedDimensionAttributes', '}LocalizedElementAttributes_Account', '}LocalizedElementAttributes_Account Reporting', '}LocalizedElementAttributes_Allocation Calculation', '}LocalizedElementAttributes_Allocation List', '}LocalizedElementAttributes_Allocation Source Definition', '}LocalizedElementAttributes_Asset Life', '}LocalizedElementAttributes_Asset Types', '}LocalizedElementAttributes_Benefit', '}LocalizedElementAttributes_Calendar', '}LocalizedElementAttributes_Capital', '}LocalizedElementAttributes_CapitalList', '}LocalizedElementAttributes_Channel', '}LocalizedElementAttributes_Compensation', '}LocalizedElementAttributes_Currency Calc', '}LocalizedElementAttributes_Depreciation', '}LocalizedElementAttributes_Employee', '}LocalizedElementAttributes_EmployeeList', '}LocalizedElementAttributes_Employee Name', '}LocalizedElementAttributes_Exchange Rate', '}LocalizedElementAttributes_Exchange Rate Type', '}LocalizedElementAttributes_ExternalFactors', '}LocalizedElementAttributes_FcstMethod', '}LocalizedElementAttributes_jobcode', '}LocalizedElementAttributes_JobCodeAsmpt', '}LocalizedElementAttributes_JobType', '}LocalizedElementAttributes_JobTypeAssumption', '}LocalizedElementAttributes_LineItem_PickList', '}LocalizedElementAttributes_LineItemDetail', '}LocalizedElementAttributes_LineItemList', '}LocalizedElementAttributes_Metrics', '}LocalizedElementAttributes_Metrics Indicators', '}LocalizedElementAttributes_Month', '}LocalizedElementAttributes_MonthMap', '}LocalizedElementAttributes_Month Reporting', '}LocalizedElementAttributes_Numbered List', '}LocalizedElementAttributes_OpExSubset_Picklist', '}LocalizedElementAttributes_organization', '}LocalizedElementAttributes_Organization Reporting', '}LocalizedElementAttributes_PhasedCosts', '}LocalizedElementAttributes_Plant', '}LocalizedElementAttributes_product', '}LocalizedElementAttributes_ProductSubset_PickList', '}LocalizedElementAttributes_Rate Measure', '}LocalizedElementAttributes_Relative Time', '}LocalizedElementAttributes_Revenue', '}LocalizedElementAttributes_RevenueAsmpt', '}LocalizedElementAttributes_SM Reviews', '}LocalizedElementAttributes_Spread Methods', '}LocalizedElementAttributes_String', '}LocalizedElementAttributes_Supply Chain Measures', '}LocalizedElementAttributes_Task', '}LocalizedElementAttributes_Task Workflow Measure', '}LocalizedElementAttributes_TrxID', '}LocalizedElementAttributes_TrxMeasures', '}LocalizedElementAttributes_Version', '}LocalizedElementAttributes_Version Copy Measures', '}LocalizedElementAttributes_Version Reporting', '}LocalizedElementAttributes_Version Subset Measures', '}LocalizedElementAttributes_Version Subsets', '}LocalizedElementAttributes_Workflow Info', '}LocalizedElementAttributes_Year', '}LocalizedProcessAttributes', '}LocalizedSubsetAttributes_Account', '}LocalizedSubsetAttributes_Account Reporting', '}LocalizedSubsetAttributes_Allocation Calculation', '}LocalizedSubsetAttributes_Allocation List', '}LocalizedSubsetAttributes_Allocation Source Definition', '}LocalizedSubsetAttributes_Asset Life', '}LocalizedSubsetAttributes_Asset Types', '}LocalizedSubsetAttributes_Benefit', '}LocalizedSubsetAttributes_Calendar', '}LocalizedSubsetAttributes_Capital', '}LocalizedSubsetAttributes_CapitalList', '}LocalizedSubsetAttributes_Channel', '}LocalizedSubsetAttributes_Compensation', '}LocalizedSubsetAttributes_Currency', '}LocalizedSubsetAttributes_Currency Calc', '}LocalizedSubsetAttributes_Depreciation', '}LocalizedSubsetAttributes_Employee', '}LocalizedSubsetAttributes_EmployeeList', '}LocalizedSubsetAttributes_Employee Name', '}LocalizedSubsetAttributes_Exchange Rate', '}LocalizedSubsetAttributes_Exchange Rate Type', '}LocalizedSubsetAttributes_ExternalFactors', '}LocalizedSubsetAttributes_jobcode', '}LocalizedSubsetAttributes_JobCodeAsmpt', '}LocalizedSubsetAttributes_JobType', '}LocalizedSubsetAttributes_JobTypeAssumption', '}LocalizedSubsetAttributes_LineItem_PickList', '}LocalizedSubsetAttributes_LineItemDetail', '}LocalizedSubsetAttributes_LineItemList', '}LocalizedSubsetAttributes_Metrics', '}LocalizedSubsetAttributes_Metrics Indicators', '}LocalizedSubsetAttributes_Month', '}LocalizedSubsetAttributes_MonthMap', '}LocalizedSubsetAttributes_Month Reporting', '}LocalizedSubsetAttributes_Numbered List', '}LocalizedSubsetAttributes_OpExSubset_Picklist', '}LocalizedSubsetAttributes_organization', '}LocalizedSubsetAttributes_Organization Reporting', '}LocalizedSubsetAttributes_PhasedCosts', '}LocalizedSubsetAttributes_Plant', '}LocalizedSubsetAttributes_product', '}LocalizedSubsetAttributes_ProductSubset_PickList', '}LocalizedSubsetAttributes_Rate Measure', '}LocalizedSubsetAttributes_Relative Time', '}LocalizedSubsetAttributes_Revenue', '}LocalizedSubsetAttributes_RevenueAsmpt', '}LocalizedSubsetAttributes_Spread Methods', '}LocalizedSubsetAttributes_String', '}LocalizedSubsetAttributes_Supply Chain Measures', '}LocalizedSubsetAttributes_Task', '}LocalizedSubsetAttributes_Task Workflow Measure', '}LocalizedSubsetAttributes_TrxMeasures', '}LocalizedSubsetAttributes_Version', '}LocalizedSubsetAttributes_Version Subset Measures', '}LocalizedSubsetAttributes_Version Subsets', '}LocalizedSubsetAttributes_Year', '}LocalizedViewAttributes_Allocation Calculation', '}LocalizedViewAttributes_Allocation Source Definition', '}LocalizedViewAttributes_Asset Life', '}LocalizedViewAttributes_Benefit Assumptions', '}LocalizedViewAttributes_Calendar', '}LocalizedViewAttributes_Capital', '}LocalizedViewAttributes_Compensation', '}LocalizedViewAttributes_Compensation Reporting', '}LocalizedViewAttributes_Depreciation', '}LocalizedViewAttributes_Employee', '}LocalizedViewAttributes_Exchange Rates', '}LocalizedViewAttributes_ExternalFactors', '}LocalizedViewAttributes_FcstMethod', '}LocalizedViewAttributes_GLTransactions', '}LocalizedViewAttributes_Income Statement', '}LocalizedViewAttributes_Income Statement Reporting', '}LocalizedViewAttributes_Job Code Assumptions', '}LocalizedViewAttributes_Job Type Assumption', '}LocalizedViewAttributes_Line Item Detail', '}LocalizedViewAttributes_Metrics', '}LocalizedViewAttributes_Phased Costs', '}LocalizedViewAttributes_Rate BOM', '}LocalizedViewAttributes_Relative Time', '}LocalizedViewAttributes_Revenue', '}LocalizedViewAttributes_Revenue Assumptions', '}LocalizedViewAttributes_Revenue Reporting', '}LocalizedViewAttributes_Social Media', '}LocalizedViewAttributes_Spread Methods', '}LocalizedViewAttributes_Supply Chain', '}LocalizedViewAttributes_Task Workflow', '}LocalizedViewAttributes_Version Copy Control', '}LocalizedViewAttributes_Version Subset Control', '}LocalizedViewAttributes_Workflow Reporting', '}ProcessAttributes', '}StatsByRule', '}SubsetAttributes_Account', '}SubsetAttributes_Account Reporting', '}SubsetAttributes_Allocation Calculation', '}SubsetAttributes_Allocation List', '}SubsetAttributes_Allocation Source Definition', '}SubsetAttributes_Asset Life', '}SubsetAttributes_Asset Types', '}SubsetAttributes_Benefit', '}SubsetAttributes_Calendar', '}SubsetAttributes_Capital', '}SubsetAttributes_CapitalList', '}SubsetAttributes_Channel', '}SubsetAttributes_Compensation', '}SubsetAttributes_Currency', '}SubsetAttributes_Currency Calc', '}SubsetAttributes_Depreciation', '}SubsetAttributes_Employee', '}SubsetAttributes_EmployeeList', '}SubsetAttributes_Employee Name', '}SubsetAttributes_Exchange Rate', '}SubsetAttributes_Exchange Rate Type', '}SubsetAttributes_ExternalFactors', '}SubsetAttributes_jobcode', '}SubsetAttributes_JobCodeAsmpt', '}SubsetAttributes_JobType', '}SubsetAttributes_JobTypeAssumption', '}SubsetAttributes_LineItem_PickList', '}SubsetAttributes_LineItemDetail', '}SubsetAttributes_LineItemList', '}SubsetAttributes_Metrics', '}SubsetAttributes_Metrics Indicators', '}SubsetAttributes_Month', '}SubsetAttributes_MonthMap', '}SubsetAttributes_Month Reporting', '}SubsetAttributes_Numbered List', '}SubsetAttributes_OpExSubset_Picklist', '}SubsetAttributes_organization', '}SubsetAttributes_Organization Reporting', '}SubsetAttributes_PhasedCosts', '}SubsetAttributes_Plant', '}SubsetAttributes_product', '}SubsetAttributes_ProductSubset_PickList', '}SubsetAttributes_Rate Measure', '}SubsetAttributes_Relative Time', '}SubsetAttributes_Revenue', '}SubsetAttributes_RevenueAsmpt', '}SubsetAttributes_Spread Methods', '}SubsetAttributes_String', '}SubsetAttributes_Supply Chain Measures', '}SubsetAttributes_Task', '}SubsetAttributes_Task Workflow Measure', '}SubsetAttributes_TrxID', '}SubsetAttributes_TrxMeasures', '}SubsetAttributes_Version', '}SubsetAttributes_Version Subset Measures', '}SubsetAttributes_Version Subsets', '}SubsetAttributes_Year', '}tp_app_user_preferences', '}tp_application_cubes', '}tp_application_jobs', '}tp_application_state}0f309cd0-4215-4482-8471-80ef000fcbb3', '}tp_central_application_state', '}tp_process_errors', '}tp_task_navigations}0f309cd0-4215-4482-8471-80ef000fcbb3', '}tp_workflow_action_TI', '}ViewAttributes_Allocation Calculation', '}ViewAttributes_Allocation Source Definition', '}ViewAttributes_Asset Life', '}ViewAttributes_Benefit Assumptions', '}ViewAttributes_Calendar', '}ViewAttributes_Capital', '}ViewAttributes_Compensation', '}ViewAttributes_Compensation Reporting', '}ViewAttributes_Depreciation', '}ViewAttributes_Employee', '}ViewAttributes_Exchange Rates', '}ViewAttributes_ExternalFactors', '}ViewAttributes_FcstMethod', '}ViewAttributes_GLTransactions', '}ViewAttributes_Income Statement', '}ViewAttributes_Income Statement Reporting', '}ViewAttributes_Job Code Assumptions', '}ViewAttributes_Job Type Assumption', '}ViewAttributes_Line Item Detail', '}ViewAttributes_Metrics', '}ViewAttributes_Phased Costs', '}ViewAttributes_Rate BOM', '}ViewAttributes_Relative Time', '}ViewAttributes_Revenue', '}ViewAttributes_Revenue Assumptions', '}ViewAttributes_Revenue Reporting', '}ViewAttributes_Social Media', '}ViewAttributes_Spread Methods', '}ViewAttributes_Supply Chain', '}ViewAttributes_Task Workflow', '}ViewAttributes_Version Copy Control', '}ViewAttributes_Version Subset Control', '}ViewAttributes_Workflow Reporting']
+Cubes with SKIPCHECK:
+Allocation Calculation
+Allocation Source Definition
+Asset Life
+Benefit Assumptions
+Calendar
+Capital
+Compensation
+Compensation Reporting
+Depreciation
+Employee
+Exchange Rates
+ExternalFactors
+FcstMethod
+GLTransactions
+Income Statement
+Income Statement Reporting
+Job Code Assumptions
+Job Type Assumption
+Line Item Detail
+Metrics
+Phased Costs
+Rate BOM
+Relative Time
+Revenue
+Revenue Assumptions
+Revenue Reporting
+Social Media
+Spread Methods
+Supply Chain
+Task Workflow
+Version Copy Control
+Version Subset Control
+Workflow Reporting
+}ApplicationSecurity
+}Capabilities
+}CellAnnotations_Capital
+}CellAnnotations_Employee
+}CellAnnotations_Income Statement
+}CellAnnotations_Line Item Detail
+}CellAnnotations_Metrics
+}CellAnnotations_Phased Costs
+}CellAnnotations_Revenue
+}CellSecurity_Income Statement
+}CellSecurity_Metrics
+}CellSecurity_Revenue
+}CellSecurity_Revenue Reporting
+}CellSecurity_Supply Chain
+}ChoreSecurity
+}ClientCAMAssociatedGroups
+}ClientProperties
+}ClientSettings
+}CubeAttributes
+}CubeCaptions
+}CubeDrill_Capital
+}CubeDrill_Employee
+}CubeDrill_Income Statement
+}CubeDrill_Income Statement Reporting
+}CubeDrill_Revenue
+}CubeProperties
+}CubeSecurity
+}CubeSecurityProperties
+}DimensionAttributes
+}DimensionCaptions
+}DimensionProperties
+}DimensionSecurity
+}ElementAnnotations_organization
+}ElementAttributes_Account
+}ElementAttributes_Account Reporting
+}ElementAttributes_Allocation Calculation
+}ElementAttributes_Allocation List
+}ElementAttributes_Allocation Source Definition
+}ElementAttributes_Asset Life
+}ElementAttributes_Asset Types
+}ElementAttributes_Benefit
+}ElementAttributes_BI Measure
+}ElementAttributes_Calendar
+}ElementAttributes_Capital
+}ElementAttributes_CapitalList
+}ElementAttributes_Channel
+}ElementAttributes_Compensation
+}ElementAttributes_Currency
+}ElementAttributes_Currency Calc
+}ElementAttributes_Depreciation
+}ElementAttributes_Employee
+}ElementAttributes_EmployeeList
+}ElementAttributes_Exchange Rate
+}ElementAttributes_Exchange Rate Type
+}ElementAttributes_ExternalFactors
+}ElementAttributes_FcstMethod
+}ElementAttributes_jobcode
+}ElementAttributes_JobCodeAsmpt
+}ElementAttributes_JobType
+}ElementAttributes_JobTypeAssumption
+}ElementAttributes_LineItemDetail
+}ElementAttributes_LineItemList
+}ElementAttributes_Metrics
+}ElementAttributes_Metrics Indicators
+}ElementAttributes_Month
+}ElementAttributes_MonthMap
+}ElementAttributes_Month Reporting
+}ElementAttributes_Numbered List
+}ElementAttributes_organization
+}ElementAttributes_Organization Reporting
+}ElementAttributes_PhasedCosts
+}ElementAttributes_Plant
+}ElementAttributes_product
+}ElementAttributes_Rate Measure
+}ElementAttributes_Relative Time
+}ElementAttributes_Revenue
+}ElementAttributes_RevenueAsmpt
+}ElementAttributes_SM Entries
+}ElementAttributes_SM Reviews
+}ElementAttributes_Spread Methods
+}ElementAttributes_String
+}ElementAttributes_Task
+}ElementAttributes_Task Workflow Measure
+}ElementAttributes_TrxID
+}ElementAttributes_TrxMeasures
+}ElementAttributes_Version
+}ElementAttributes_Version Subset Measures
+}ElementAttributes_Version Subsets
+}ElementAttributes_Year
+}ElementAttributes_}Backup_Metrics Indicators
+}ElementAttributes_}Backup_Organization Reporting
+}ElementAttributes_}Clients
+}ElementAttributes_}Cultures
+}ElementAttributes_}DeployedLinkRecord
+}ElementAttributes_}ElementAttributes_organization
+}ElementAttributes_}formatTesterDimensionA
+}ElementAttributes_}formatTesterDimensionB
+}ElementAttributes_}Groups
+}ElementAttributes_}Link_Allocation Calculation_3AAllocation Source Definition
+}ElementAttributes_}Link_Capital_3AAssetLife
+}ElementAttributes_}Link_Dep_3ACap_Additions
+}ElementAttributes_}Link_Dep_3ACap_InService
+}ElementAttributes_}Link_Emp_3AComp
+}ElementAttributes_}Link_Emp_3AJCAsmpt
+}ElementAttributes_}Link_Emp_3AJTAsmpt
+}ElementAttributes_}Link_Metrics _3C Income Statement
+}ElementAttributes_}Links
+}ElementAttributes_}MI_Metrics_D
+}ElementAttributes_}MI_Metrics_I
+}ElementAttributes_}Modeling
+}ElementAttributes_}ModelProperties
+}ElementAttributes_}MS_Metrics}_Smartco 2015 Plan
+}ElementAttributes_}Processes
+}ElementAttributes_}ProgressTimings
+}ElementAttributes_}tp_applications
+}ElementAttributes_}tp_config
+}ElementAttributes_}tp_process_errors_localization
+}ElementAttributes_}tp_system_config
+}ElementAttributes_}tp_tasks}0f309cd0-4215-4482-8471-80ef000fcbb3
+}ElementCaptions
+}ElementCaptionsByDimension
+}ElementProperties_organization
+}formatTesterCube
+}HierarchyProperties
+}ICube_}Link_Dep_3ACap_Additions
+}ICube_}Link_Dep_3ACap_InService
+}MI_Metrics
+}MS_Metrics}_Smartco 2015 Plan
+}PickList_Employee
+}PickList_}ElementAttributes_Account
+}PlanningControl
+}ProcessSecurity
+}SecurityOverlayGlobal_Income Statement
+}SecurityOverlayGlobal_Metrics
+}SecurityOverlayGlobal_Revenue
+}SecurityOverlayGlobal_Supply Chain
+}StatsByChore
+}StatsByClient
+}StatsByCube
+}StatsByCubeByClient
+}StatsByProcess
+}StatsForServer
+Cubes with UNDEFVALS:
+Allocation Calculation
+Allocation Source Definition
+Asset Life
+Benefit Assumptions
+Calendar
+Capital
+Compensation
+Depreciation
+Employee
+Exchange Rates
+FcstMethod
+GLTransactions
+Income Statement
+Income Statement Reporting
+Job Code Assumptions
+Job Type Assumption
+Line Item Detail
+Metrics
+Phased Costs
+Relative Time
+Revenue
+Revenue Assumptions
+Revenue Reporting
+Spread Methods
+Version Subset Control
+}ElementAttributes_Version
+}MI_Metrics
+}MS_Metrics}_Smartco 2015 Plan
