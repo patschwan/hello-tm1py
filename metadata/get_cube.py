@@ -3,7 +3,7 @@ Get a Cube from TM1
 """
 from TM1py.Services import TM1Service
 
-with TM1Service(address='172.17.0.1', port=52670, user='admin', password='apple', ssl=False) as tm1:
+with TM1Service(address='172.24.16.1', port=52670, user='admin', password='apple', ssl=False) as tm1:
     cubes = tm1.cubes.get_all()
     for cube in cubes:
         cube_dims = tm1.cubes.get_dimension_names(cube_name=cube.name)
